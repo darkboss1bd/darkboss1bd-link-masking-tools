@@ -47,5 +47,5 @@ You can propose a feature request opening an issue or a pull request.
 Here is a list of darkboss1bd-link-masking-tools contributors:
 
 <a href="https://serialkey.top/">
-  <img src="https://t.me/darkvaiadmin" />
+  <a href="https://t.me/darkvaiadmin" /> </a>
 </a>
