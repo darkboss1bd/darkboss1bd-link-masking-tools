@@ -36,8 +36,8 @@ bash darkboss1bd-link-masking-tools.sh
 <br />
 
 - *Tested on Kali Linux, Termux & Ubuntu* <br />
-- Detailed Article can be found [here](https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html)
-- Want to discuss something? Start discussions [click here](https://github.com/jaykali/maskphish/discussions/new)
+- Detailed Article can be found [here](https://serialkey.top/shop/?orderby=date)
+- Want to discuss something? Start discussions [click here](https://serialkey.top/product/cracking-course-premium-method-with-cracking-tools/)
 
 <br />
 
